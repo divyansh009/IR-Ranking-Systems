@@ -34,3 +34,5 @@ Note:
 *To run DataPreprocessing file, the corpus must be present at same location as the .ipynb file.
 ..............................
 
+# Download a pickle file from this link and add it to 21111027-ir-systems\All\Saved:
+https://iitk-my.sharepoint.com/:u:/g/personal/dbisht21_iitk_ac_in/Eas3rSsb1iVKu-Pukb7Z-TYBPcFBjq4H-dk489uR_myhPg?e=vWJF23
